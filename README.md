@@ -3,4 +3,4 @@ A nice SDR# plugin for Short Wave listening enthusiasts, and...more!
 
 ========== Stay tuned for the first public release ==========
 
-![](https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/blob/BlackApple62-SampleImages/ListeninfoPreview.png?raw=true)
+![image](https://user-images.githubusercontent.com/47506878/170727372-9830e6eb-a40f-40e0-976a-bcd7d23eecb8.png)
