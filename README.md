@@ -20,7 +20,7 @@ This Plugin is compiled for SDR# 32bit, with .NET 7 (SDR# Studio release >= 1902
 
 **Release note/changelog : _https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/releases_**
 
-**Plugin download (zip file): _https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/releases/download/2.4/SDRSharp.Plugin.ListenInfo.zip_**
+**Plugin download (zip file): _https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/releases/download/2.5/SDRSharp.Plugin.ListenInfo.zip_**
 
 This plugin is donated for *free* to the huge SDR# Studio users community.<br>
 
