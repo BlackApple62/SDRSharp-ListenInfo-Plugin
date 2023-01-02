@@ -1,6 +1,6 @@
 # SDRSharp-ListenInfo-Plugin
 A nice SDR# plugin for Short Wave listening enthusiasts, and...more!
-# UPDATED! Version: 2.5 - 29 Dec 2022 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-ListenInfo-Plugin/2.5/total.svg)]()
+# UPDATED! Version: 2.6 - 02 Jan 2023 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-ListenInfo-Plugin/2.6/total.svg)]()
 
 The files in this zip archive will add public internet database data from LW, MW, SW bands to be displayed on Spectrum or Waterfall in the SDR# Studio software (www.airspy.com).
 <br>Of course, it is not limited to VLF-HF! It can be used at any SDR# available frequency to log and manage your records.
@@ -19,7 +19,7 @@ This Plugin is compiled for SDR# 32bit, with .NET 7 (SDR# Studio release >= 1902
 
 **Release note/changelog : _https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/releases_**
 
-**Plugin download (zip file): _https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/releases/download/2.5/SDRSharp.Plugin.ListenInfo.zip_**
+**Plugin download (zip file): _https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/releases/download/2.6/SDRSharp.Plugin.ListenInfo.zip_**
 
 This plugin is donated for *free* to the huge SDR# Studio users community.<br>
 
