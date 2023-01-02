@@ -13,7 +13,7 @@ The files in this zip archive will add public internet database data from LW, MW
 This Plugin is compiled for SDR# 32bit, with .NET 7 (SDR# Studio release >= 1902).
 <br>Note: The plugin has not been tested on unsupported/older version o SDR# Studio and SDR#.
 
-![GitHub Image -2 5](https://user-images.githubusercontent.com/47506878/210000133-29ce7b1c-7030-48e9-83bd-3210ae78eb36.png)
+![GitHub Image -2 6](https://user-images.githubusercontent.com/47506878/210201663-51df35c2-9974-4a86-a8fd-5e0e6d403d3b.png)
 
   
 
