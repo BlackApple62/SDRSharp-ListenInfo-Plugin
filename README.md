@@ -16,8 +16,14 @@ This Plugin is compiled for SDR# 32bit, with .NET 7 (SDR# Studio release >= 1902
 **Setup:**
 <br>**1.** Unzip the file SDRSharp.Plugin.ListenInfo.zip
 <br>**2.** Copy the SDRSharp.ListenInfo.dll file into the SDR# Studio "Plugins" default folder
-<br>**3.** Alternate, should you prefer, create your own folder inside the default "Plugins" and copy there the SDRSharp.ListenInfo.dll instead.
+<br>**3.** Alternate, should you prefer, create your own folder inside the default "Plugins" it could be "ListenInfo", and copy there the SDRSharp.ListenInfo.dll instead.
 <br>>SDRSharp will load your plugin at next execution.
+
+**Update to a new version:**
+<br>**1.** Close SDR#.
+<br>**2.** Unzip the new zip file SDRSharp.Plugin.ListenInfo.zip
+<br>**3.** Replace your old the SDRSharp.ListenInfo.dll file with the new one.
+<br>>SDRSharp will load the new version plugin at next execution.
 
 **Release note/changelog:<br>
 _https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/releases_**
