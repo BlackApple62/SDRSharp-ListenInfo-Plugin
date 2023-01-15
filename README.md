@@ -13,9 +13,16 @@ The files in this zip archive will add public internet database data from LW, MW
 This Plugin is compiled for SDR# 32bit, with .NET 7 (SDR# Studio release >= 1902).
 <br>Note: The plugin has not been tested on unsupported/older version o SDR# Studio and SDR#.
 
-**Release note/changelog : _https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/releases_**
+**Setup:**
+<br>**1.** Unzip the file SDRSharp.Plugin.ListenInfo.zip
+<br>**2.** Copy the SDRSharp.ListenInfo.dll file into the SDR# Studio "Plugins" default folder
+<br>**3.** Alternate, should you prefer, create your own folder inside the default "Plugins" and copy there the SDRSharp.ListenInfo.dll instead.
 
-**Plugin download (zip file): _https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/releases/download/2.8/SDRSharp.Plugin.ListenInfo.zip_**
+**Release note/changelog:<br>
+_https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/releases_**
+
+**Plugin download (zip file):<br>
+_https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/releases/download/2.8/SDRSharp.Plugin.ListenInfo.zip_**
 
 This plugin is donated for *free* to the huge SDR# Studio users community.<br>
 
