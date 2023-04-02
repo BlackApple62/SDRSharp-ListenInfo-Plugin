@@ -39,7 +39,4 @@ This plugin is donated for *free* to the huge SDR# Studio users community.<br>
 For comments: https://twitter.com/BlackApple62
 <br>Enjoy!
 
-![GitHubScreenshot](https://user-images.githubusercontent.com/47506878/229347224-203c6d9b-6f18-4129-b07c-86836bbe8b14.png)
-
-
-
+![GitHubScreenshot2](https://user-images.githubusercontent.com/47506878/229347413-e8f032be-2a63-4522-913e-a32d3d3f3eeb.png)
