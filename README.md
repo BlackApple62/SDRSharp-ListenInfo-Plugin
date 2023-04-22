@@ -6,7 +6,7 @@ A nice SDR# plugin for Short Wave listening enthusiasts, and...more!
 The files in this zip archive will add public internet database data as well as file data from LW, MW, SW bands to be displayed on Spectrum or Waterfall in the SDR# Studio software (www.airspy.com).
 <br>Not limited to VLF-HF! It can be used at any SDR# available frequency to log and manage your records.
 <br>Adding/Deleting/Editing your own and existing station records is implemented, as well as capability to move/assign them to a specific list collection.
-<br>A PDF manual is included in the downloads, the manual's author, IZ1MLL Paolo Romani shared his OM sklls with me to add capabilities and build the manual.
+<br>A PDF manual is included in the downloads, the manual's author, IZ1MLL Paolo Romani shared his OM skills with me to add capabilities and build the manual.
 <br>A sincere thank you to him, such a great stimulus for many features.
 <br>The LI Manual in this download is an excerpt from his wonderful "**SDR# - The Big Book**", a must to read for every SDR passionate and SDR# Studio user.
 <br>
