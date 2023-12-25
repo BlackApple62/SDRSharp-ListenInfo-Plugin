@@ -1,4 +1,4 @@
-# SDRSharp-ListenInfo-Plugin ![(buona - github)ezgif com-resize](https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/assets/47506878/13cf9765-12aa-4701-8bf7-9a5477ee208f)
+# SDRSharp-ListenInfo-Plugin
 
 A nice SDR# plugin for Short Wave listening enthusiasts, and...more!
 
