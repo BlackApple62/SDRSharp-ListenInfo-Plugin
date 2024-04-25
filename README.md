@@ -1,9 +1,12 @@
-# SDRSharp-ListenInfo-Plugin
+# SDRSharp-ListenInfo-Plugin![ezgif com-resize](https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/assets/47506878/784df25b-d14a-4690-817b-1157d96a4fe9)
+
+
 
 
 A nice SDR# plugin for Short Wave listening enthusiasts, and...more!
 
-# Version: 3.3 - 07 Jan 2024 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-ListenInfo-Plugin/3.3/total.svg)](https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/releases/download/3.3/SDRSharp.Plugin.ListenInfo.zip)
+
+# Version: 3.4 - 25 Apr 2024 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-ListenInfo-Plugin/3.4/total.svg)](https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/releases/download/3.4/SDRSharp.Plugin.ListenInfo.zip)
 
 The files in this zip archive will add public internet database data as well as file data from LW, MW, SW bands to be displayed on Spectrum or Waterfall in the SDR# Studio software (www.airspy.com).
 <br>Not limited to VLF-HF! It can be used at any SDR# available frequency to log and manage your records.
@@ -13,7 +16,7 @@ The files in this zip archive will add public internet database data as well as 
 <br>The LI Manual in this download is an excerpt from his wonderful "**SDR# - The Big Book**", a must to read for every SDR passionate and SDR# Studio user.
 <br>
 <br>
-This Plugin is compiled for SDR# 32bit, with .NET 7 (SDR# Studio release >= 1902).
+**This Plugin is compiled for SDR# 32bit, with .NET 8 (SDR# Studio release >= 1920).**
 <br>Note: The plugin has not been tested and will not work on unsupported/older version o SDR# Studio and SDR#.
 
 **New Setup:**
@@ -41,4 +44,5 @@ This plugin is donated for *free* to the huge SDR# Studio users community.<br>
 For comments: https://twitter.com/BlackApple62
 <br>Enjoy!
 
-![GitHubScreenshot2](https://user-images.githubusercontent.com/47506878/229347413-e8f032be-2a63-4522-913e-a32d3d3f3eeb.png)
+![image](https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/assets/47506878/5380b787-7bdb-41bc-b778-a43e99f0eaa2)
+
