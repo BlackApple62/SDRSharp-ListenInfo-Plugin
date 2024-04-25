@@ -44,5 +44,4 @@ This plugin is donated for *free* to the huge SDR# Studio users community.<br>
 For comments: https://twitter.com/BlackApple62
 <br>Enjoy!
 
-![image](https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/assets/47506878/5380b787-7bdb-41bc-b778-a43e99f0eaa2)
-
+![image](https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/assets/47506878/7e619637-d978-4306-a815-345d3e3036b8)
