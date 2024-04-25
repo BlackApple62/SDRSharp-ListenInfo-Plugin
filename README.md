@@ -37,7 +37,7 @@ The files in this zip archive will add public internet database data as well as 
 _https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/releases_**
 
 **Plugin download (zip file):<br>
-_https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/releases/download/3.3/SDRSharp.Plugin.ListenInfo.zip_**
+_https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/releases/download/3.4/SDRSharp.Plugin.ListenInfo.zip_**
 
 This plugin is donated for *free* to the huge SDR# Studio users community.<br>
 
