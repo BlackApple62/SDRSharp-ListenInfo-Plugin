@@ -1,4 +1,4 @@
-# SDRSharp-ListenInfo-Plugin![ezgif com-resize](https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/assets/47506878/784df25b-d14a-4690-817b-1157d96a4fe9)
+# SDRSharp-ListenInfo-Plugin
 
 
 
