@@ -28,7 +28,7 @@ The files in this zip archive will add public internet database data as well as 
 **Update to a new version:**
 <br>**1.** Close SDR#.
 <br>**2.** Unzip the new zip file SDRSharp.Plugin.ListenInfo.zip
-<br>**3.** Replace your old the SDRSharp.ListenInfo.dll file with the new one.
+<br>**3.** Replace your old the SDRSharp.Plugin.ListenInfo.dll file with the new one.
 <br>>SDRSharp will load the new version plugin at next execution.
 <br>>All your ListenInfo data and settings is kept safe in the folder "LI-Data".
 <br>>Do not touch the folder! All your data and settings will be preserved after you update the program.
