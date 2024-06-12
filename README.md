@@ -21,7 +21,7 @@ The files in this zip archive will add public internet database data as well as 
 
 **New Setup:**
 <br>**1.** Unzip the file SDRSharp.Plugin.ListenInfo.zip
-<br>**2.** Copy the SDRSharp.ListenInfo.dll file into the SDR# Studio "Plugins" default folder
+<br>**2.** Copy the SDRSharp.Plugin.ListenInfo.dll file into the SDR# Studio "Plugins" default folder
 <br>**3.** Alternate, should you prefer, create your own folder inside the default "Plugins" it could be "ListenInfo", and copy there the SDRSharp.ListenInfo.dll instead.
 <br>>SDRSharp will load your plugin at next execution.
 
