@@ -12,7 +12,7 @@ The files in this zip archive will add public internet database data as well as 
 <br>Not limited to VLF-HF! It can be used at any SDR# available frequency to log and manage your records.
 <br>Adding/Deleting/Editing your own and existing station records is implemented, as well as capability to move/assign them to a specific list collection.
 <br>
-<br>Basic use instructions are included in the **SDR# Big Book**. The manual's author, IZ1MLL Paolo Romani shared his OM skills with me to add some plugin capabilities and build the manual.
+<br>Basic use instructions are included in the **SDR# Big Book** - (www.airspy.com). The manual's author, IZ1MLL Paolo Romani shared his OM skills with me to add some plugin capabilities and build the manual.
 <br>A sincere thank you to him, such a great stimulus for many features.
 <br>
 <br>
