@@ -4,7 +4,6 @@
 
 
 A nice SDR# plugin for Short Wave listening enthusiasts, and...more!
-![(buona - github)ezgif com-resize](https://github.com/user-attachments/assets/9eef0542-dc5b-4ae1-90d7-c7c749a32893)
 
 
 # Version: 3.5 - 20 Dec 2025 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-ListenInfo-Plugin/3.5/total.svg)](https://github.com/BlackApple62/SDRSharp-ListenInfo-Plugin/releases/download/3.5/SDRSharp.Plugin.ListenInfo.zip)
